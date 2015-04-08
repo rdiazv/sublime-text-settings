@@ -1,0 +1,26 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Dayle Rees Color Schemes",
+		"FileDiffs",
+		"Git",
+		"Git-StatusBar",
+		"GitGutter",
+		"Haml",
+		"HTML Mustache",
+		"I18n Rails",
+		"LoremIpsum",
+		"Package Control",
+		"Rails Magic Clipboard",
+		"RubyTest",
+		"Sass",
+		"SideBarEnhancements",
+		"Text Pastry",
+		"Theme - Spacegray"
+	]
+}

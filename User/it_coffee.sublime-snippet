@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+it '${1:it}', ->
+  ${2:expectation}
+]]></content>
+  <description>Template para nuevo it de MochaJS</description>
+  <tabTrigger>it</tabTrigger>
+  <tabTrigger>expectation</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

@@ -1,0 +1,204 @@
+// lLaves de configuración del tema
+// https://github.com/kkga/spacegray/blob/master/Spacegray.sublime-theme
+
+[
+  {
+    "class": "icon_file_type",
+    "content_margin": [0, 0]
+  },
+  {
+    "class": "icon_folder",
+    "content_margin": [0, 0]
+  },
+  {
+    "class": "icon_folder_loading",
+    "content_margin": [0, 0]
+  },
+  {
+    "class": "tab_control",
+    "attributes": ["selected"],
+    "layer0.tint": [100, 92, 84]
+  },
+  {
+    "class": "disclosure_button_control",
+    "layer0.tint": [143, 131, 119]
+  },
+  {
+    "class": "puck_control",
+    "layer0.tint": [143, 131, 119],
+    "content_margin": [1, 0]
+  },
+  {
+    "class": "puck_control",
+    "attributes": ["horizontal"],
+    "layer0.tint": [143, 131, 119],
+    "content_margin": [0, 1]
+  },
+  {
+    "class": "auto_complete_label",
+    "selected_fg": [180, 180, 180, 255]
+  },
+  {
+    "class": "table_row",
+    "layer0.tint": [100, 92, 84]
+  },
+  {
+    "class": "icon_wrap",
+    "layer0.tint": [100, 92, 84]
+  },
+  {
+    "class": "icon_wrap",
+    "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
+    "layer0.tint": [200, 200, 200]
+  },
+  {
+    "class": "icon_regex",
+    "layer0.tint": [100, 92, 84]
+  },
+  {
+    "class": "icon_regex",
+    "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
+    "layer0.tint": [200, 200, 200]
+  },
+  {
+    "class": "icon_in_selection",
+    "layer0.tint": [100, 92, 84]
+  },
+  {
+    "class": "icon_in_selection",
+    "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
+    "layer0.tint": [200, 200, 200]
+  },
+  {
+    "class": "icon_case",
+    "layer0.tint": [100, 92, 84]
+  },
+  {
+    "class": "icon_case",
+    "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
+    "layer0.tint": [200, 200, 200]
+  },
+  {
+    "class": "icon_whole_word",
+    "layer0.tint": [100, 92, 84]
+  },
+  {
+    "class": "icon_whole_word",
+    "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
+    "layer0.tint": [200, 200, 200]
+  },
+  {
+    "class": "icon_context",
+    "layer0.tint": [100, 92, 84]
+  },
+  {
+    "class": "icon_context",
+    "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
+    "layer0.tint": [200, 200, 200]
+  },
+  {
+    "class": "icon_use_buffer",
+    "layer0.tint": [100, 92, 84]
+  },
+  {
+    "class": "icon_use_buffer",
+    "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
+    "layer0.tint": [200, 200, 200]
+  },
+  {
+    "class": "icon_reverse",
+    "layer0.tint": [100, 92, 84]
+  },
+  {
+    "class": "icon_reverse",
+    "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
+    "layer0.tint": [200, 200, 200]
+  },
+  {
+    "class": "icon_preserve_case",
+    "layer0.tint": [100, 92, 84]
+  },
+  {
+    "class": "icon_preserve_case",
+    "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
+    "layer0.tint": [200, 200, 200]
+  },
+  {
+    "class": "icon_highlight",
+    "layer0.tint": [100, 92, 84]
+  },
+  {
+    "class": "icon_highlight",
+    "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
+    "layer0.tint": [200, 200, 200]
+  },
+  {
+    "class": "label_control",
+    "parents": [{"class": "button_control"}],
+    "font.bold": false,
+    "color": [200, 200, 200]
+  },
+  {
+    "class": "button_control",
+    "layer0.tint": [46, 42, 37]
+  },
+  {
+    "class": "button_control",
+    "attributes": ["hover"],
+    "layer0.tint": [54, 49, 44]
+  },
+  {
+    "class": "button_control",
+    "attributes": ["pressed"],
+    "layer0.tint": [41, 37, 33]
+  },
+  {
+    "class": "panel_control",
+    "layer0.tint": [46, 42, 37]
+  },
+  {
+    "class": "overlay_control",
+    "layer1.tint": [46, 42, 37]
+  },
+  {
+    "class": "quick_panel_row",
+    "layer0.tint": [65, 58, 52]
+  },
+  {
+    "class": "quick_panel_row",
+    "attributes": ["selected"],
+    "layer0.tint": [74, 67, 59]
+  },
+  {
+    "class": "quick_panel_label",
+    "fg": [144, 130, 116, 255],
+    "match_fg": [200, 181, 161, 255],
+    "selected_fg": [200, 181, 161, 255],
+    "selected_match_fg": [255, 230, 206, 255]
+  },
+  {
+    "class": "quick_panel_path_label",
+    "fg": [144, 130, 116, 255],
+    "match_fg": [200, 181, 161, 255],
+    "selected_fg": [200, 181, 161, 255],
+    "selected_match_fg": [255, 230, 206, 255]
+  },
+  {
+    "class": "quick_panel_score_label",
+    "fg": [144, 130, 116, 255],
+    "selected_fg": [255, 230, 206, 255]
+  },
+  {
+    "class": "text_line_control",
+    "layer0.tint": [54, 49, 44]
+  },
+  {
+    "class": "mini_quick_panel_row",
+    "layer0.tint": [65, 58, 52]
+  },
+  {
+    "class": "mini_quick_panel_row",
+    "attributes": ["selected"],
+    "layer0.tint": [74, 67, 59]
+  }
+]

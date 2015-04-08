@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+context '${1:context}', ->
+  it '${2:spec}', ->
+    ${3:expectation}
+]]></content>
+  <description>Template para context de MochaJS</description>
+  <tabTrigger>context</tabTrigger>
+  <tabTrigger>spec</tabTrigger>
+  <tabTrigger>expectation</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

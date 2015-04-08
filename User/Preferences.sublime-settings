@@ -1,0 +1,37 @@
+{
+	"color_scheme": "Packages/Dayle Rees Color Schemes/sublime/earthsong.tmTheme",
+	"enable_tab_scrolling": false,
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		".sass-cache",
+		"CVS",
+		"doc",
+		"tmp",
+		".bundle"
+	],
+	"font_size": 10,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"I18n Rails"
+	],
+	"line_numbers": true,
+	"rulers":
+	[
+	],
+	"show_encoding": true,
+	"spacegray_tabs_font_small": true,
+	"spacegray_tabs_small": true,
+	"tab_size": 2,
+	"theme": "earthsong.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true,
+	"wrap_width": "auto"
+}

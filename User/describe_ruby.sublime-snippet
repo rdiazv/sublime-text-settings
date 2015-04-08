@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+describe '${1:describe}' do
+  it '${2:spec}' do
+    ${3:expectation}
+  end
+end
+]]></content>
+  <description>Template para describe de rspec</description>
+  <tabTrigger>describe</tabTrigger>
+  <tabTrigger>spec</tabTrigger>
+  <tabTrigger>expectation</tabTrigger>
+  <scope>source.rb</scope>
+</snippet>

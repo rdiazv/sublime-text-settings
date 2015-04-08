@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+context '${1:context}' do
+  it '${2:spec}' do
+    ${3:expectation}
+  end
+end
+]]></content>
+  <description>Template para context de rspec</description>
+  <tabTrigger>context</tabTrigger>
+  <tabTrigger>spec</tabTrigger>
+  <tabTrigger>expectation</tabTrigger>
+  <scope>source.rb</scope>
+</snippet>

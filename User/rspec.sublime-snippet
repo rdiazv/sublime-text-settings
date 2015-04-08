@@ -1,0 +1,20 @@
+<snippet>
+  <content><![CDATA[
+# encoding: utf-8
+
+require 'rails_helper'
+
+describe ${1:rspec} do
+  describe '${2:method}' do
+    it '${3:spec}' do
+      ${4:expectation}
+    end
+  end
+end
+]]></content>
+  <description>Template para nuevo rspec</description>
+  <tabTrigger>rspec</tabTrigger>
+  <tabTrigger>method</tabTrigger>
+  <tabTrigger>spec</tabTrigger>
+  <tabTrigger>expectation</tabTrigger>
+</snippet>

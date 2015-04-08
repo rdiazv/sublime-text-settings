@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+it '${1:it}' do
+  ${2:expectation}
+end
+]]></content>
+  <description>Template para nuevo it de rspec</description>
+  <tabTrigger>it</tabTrigger>
+  <tabTrigger>expectation</tabTrigger>
+  <scope>source.rb</scope>
+</snippet>
